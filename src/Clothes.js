@@ -1,4 +1,4 @@
-import React from "React"
+import React from "react"
 
 function Clothes ({itemsForSale}) {
   return(<div className="products">
