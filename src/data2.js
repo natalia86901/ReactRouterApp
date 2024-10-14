@@ -1,8 +1,8 @@
-import image1 from "./pelllico.png";
-import image2 from "./DeRos.png";
-import image3 from "./Bistrot.png";
-import image4 from "./Moncucchetto.png";
-import image5 from "./IDueSud.png";
+import image1 from "./assets/pelllico.png";
+import image2 from "./assets/DeRos.png";
+import image3 from "./assets/Bistrot.png";
+import image4 from "./assets/Moncucchetto.png";
+import image5 from "./assets/IDueSud.png";
 
 
 export const data2 = [
