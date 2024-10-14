@@ -1,6 +1,4 @@
-import { useState } from "react";
-import Buttons from "./Buttons";
-
+import React from "React"
 
 function Clothes ({itemsForSale}) {
   return(<div className="products">
