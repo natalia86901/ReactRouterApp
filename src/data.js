@@ -1,24 +1,24 @@
-import image1 from "./LoeweBag.png";
-import image2 from "./LoewePurse.png"; 
-import image3 from "./LoeweBag1.png";
-import image4 from "./LoeweShoes.png";
-import image5 from "./CelineSweatshirt.png";
-import image6 from "./FerragamoShoes.png";
-import image7 from "./Dress.png";
-import image8 from "./ChloeSweatShirt.png";
-import image9 from "./LoeweShirt.png"; 
-import image10 from "./LoeweShorts.png";
-import image11 from "./Dress1.png";
-import image12 from "./skirt.png";
-import image13 from "./skirt1.png";
-import image14 from "./PradaShoes.png";
-import image15 from "./PradaShoes1.png";
-import image16 from "./MiuMiuBag.png";
-import image17 from "./MiuMiuSkirt.png";
-import image18 from "./MiuMiubag1.png";
-import image19 from "./Gucci shoes.png";
-import image20 from "./GucciShoes1.png";
-import image21 from "./PradaShoes2.png";
+import image1 from "./assets/LoeweBag.png";
+import image2 from "./assets/LoewePurse.png"; 
+import image3 from "./assets/LoeweBag1.png";
+import image4 from "./assets/LoeweShoes.png";
+import image5 from "./assets/CelineSweatshirt.png";
+import image6 from "./assets/FerragamoShoes.png";
+import image7 from "./assets/Dress.png";
+import image8 from "./assets/ChloeSweatShirt.png";
+import image9 from "./assets/LoeweShirt.png"; 
+import image10 from "./assets/LoeweShorts.png";
+import image11 from "./assets/Dress1.png";
+import image12 from "./assets/skirt.png";
+import image13 from "./assets/skirt1.png";
+import image14 from "./assets/PradaShoes.png";
+import image15 from "./assets/PradaShoes1.png";
+import image16 from "./assets/MiuMiuBag.png";
+import image17 from "./assets/MiuMiuSkirt.png";
+import image18 from "./assets/MiuMiubag1.png";
+import image19 from "./assets/Gucci shoes.png";
+import image20 from "./assets/GucciShoes1.png";
+import image21 from "./assets/PradaShoes2.png";
 
 export const data = [
     {
