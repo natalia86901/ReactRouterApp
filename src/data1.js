@@ -1,11 +1,11 @@
-import image1 from "./LaScala.jpg";
- import image2 from "./MilanoDuomo.jpg";
- import image3 from "./Seravalle.jpg";
- import image4 from "./Forte.jpg"; 
- import image5 from "./Piza.jpg"; 
- import image6 from "./Luca.jpg";
- import image7 from "./Lugano.jpg"; 
- import image8 from "./Como.jpg";
+import image1 from "./assets/LaScala.jpg";
+ import image2 from "./assets/MilanoDuomo.jpg";
+ import image3 from "./assets/Seravalle.jpg";
+ import image4 from "./assets/Forte.jpg"; 
+ import image5 from "./assets/Piza.jpg"; 
+ import image6 from "./assets/Luca.jpg";
+ import image7 from "./assets/Lugano.jpg"; 
+ import image8 from "./assets/Como.jpg";
 
 export const data1 = [
 
